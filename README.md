@@ -1,10 +1,10 @@
 # Web
 
-### ~~HTML~~
+* ### ~~HTML~~
 
-### ~~CSS~~
+* ### ~~CSS~~
 
-### JavaScript
+* ### JavaScript
 
-### 실습예제
+* ### 실습예제
 >
