@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
   margin:0;
 }
@@ -27,3 +28,34 @@ ol{
 #article{
   padding-left:25px;
 }
+=======
+body{
+  margin:0;
+}
+a{
+  color:black;
+  
+}
+h1{
+  font-size:45px;
+  text-align: center;
+  border-bottom:1px solid gray;
+  margin:0;
+  padding:10px;
+}
+ol{
+  border-right:1px solid gray;
+  width:90px;
+  margin:0;
+}
+#grid{
+  display:grid;
+  grid-template-columns: 150px 1fr;
+}
+#grid ol{
+  padding-left: :33px;
+}
+#article{
+  padding-left:25px;
+}
+>>>>>>> a2cc18a7ed50ba4ce0970bbda96e873ed1b88cd0
