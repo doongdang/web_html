@@ -4,7 +4,7 @@
 
 * ### ~~CSS~~
 
-* ### JavaScript
+* ### ~~JavaScript~~
 
 * ### 실습예제
 >
